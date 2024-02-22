@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Parsa Mostafaie</h1>
 <h3 align="center">A passionate web developer from Iran</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript & Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://parsa-mostafaie.github.io/](https://parsa-mostafaie.github.io/)
 
