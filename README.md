@@ -1,4 +1,4 @@
-<p style='display: block;'><img align="center" src="https://github-readme-stats.vercel.app/api?username=parsa-mostafaie&show_icons=true&locale=en" alt="parsa-mostafaie" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=parsa-mostafaie&show_icons=true&locale=en&layout=compact" alt="parsa-mostafaie" /></p>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=parsa-mostafaie&show_icons=true&locale=en" alt="parsa-mostafaie" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parsa-mostafaie&show_icons=true&locale=en&layout=compact" alt="parsa-mostafaie" /></p>
 
 
 <h1 align="center">Hi 👋, I'm Parsa Mostafaie</h1>
