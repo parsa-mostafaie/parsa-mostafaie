@@ -1,12 +1,11 @@
 <p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=parsa-mostafaie&show_icons=true&locale=en" alt="parsa-mostafaie" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parsa-mostafaie&show_icons=true&locale=en&layout=compact" alt="parsa-mostafaie" /></p>
 
-
 <h1 align="center">Hi 👋, I'm Parsa Mostafaie</h1>
 <h3 align="center">A passionate web developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsa-mostafaie&label=Profile%20views&color=0e75b6&style=flat" alt="parsa-mostafaie" /> </p>
 
-- 🔭 I’m currently working on [Weather App](www.github.com/parsa-mostafaie/weather-app)
+- 🔭 I’m currently working on [Weather App](https://www.github.com/parsa-mostafaie/weather-app)
 
 - 🌱 I’m currently learning **Javascript & Vue.js & PHP**
 
