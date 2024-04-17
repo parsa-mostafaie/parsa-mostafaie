@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsa-mostafaie&label=Profile%20views&color=0e75b6&style=flat" alt="parsa-mostafaie" /> </p>
 
-- 🔭 I’m currently working on [noreact](https://www.github.com/parsa-mostafaie/noreact)
+- 🔭 I’m currently working on [plus](https://www.github.com/parsa-mostafaie/plus)
 
-- 🌱 I’m currently learning **Javascript & Vue.js & PHP**
+- 🌱 I’m currently learning **Javascript & PHP**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/parsa-mostafaie/](https://www.github.com/parsa-mostafaie/)
 
