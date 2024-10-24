@@ -1,4 +1,4 @@
-<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=parsa-mostafaie&show_icons=true&locale=en&rank_icon=github" alt="parsa-mostafaie" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parsa-mostafaie&show_icons=true&locale=en&layout=compact&theme=darl" alt="parsa-mostafaie" /></p>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=parsa-mostafaie&show_icons=true&locale=en&rank_icon=github&theme=dark" alt="parsa-mostafaie" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parsa-mostafaie&show_icons=true&locale=en&layout=compact&theme=dark" alt="parsa-mostafaie" /></p>
 
 <h1 align="center">Hi<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"></picture> I'm Parsa</h1>
 <h3 align="center">A passionate web developer from Iran</h3>
