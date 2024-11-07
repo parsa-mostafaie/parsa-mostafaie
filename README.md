@@ -1,7 +1,4 @@
-<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=parsa-mostafaie&show_icons=true&locale=en&rank_icon=github&theme=dark" alt="parsa-mostafaie" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parsa-mostafaie&show_icons=true&locale=en&layout=compact&theme=dark" alt="parsa-mostafaie" />
-  
-[![Parsa mostafaie's current streak](https://streak-stats.demolab.com/?user=parsa-mostafaie&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-[![GitHub Streak](https://streak-stats.demolab.com?user=parsa-mostafaie&theme=dark&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=parsa-mostafaie&show_icons=true&locale=en&rank_icon=github&theme=dark" alt="parsa-mostafaie" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parsa-mostafaie&show_icons=true&locale=en&layout=compact&theme=dark" alt="parsa-mostafaie" /> <img src="https://streak-stats.demolab.com/?user=parsa-mostafaie&count_private=true&theme=blue-green&title_color=00b3ff" />
 </p>
 
 <p align="center">
