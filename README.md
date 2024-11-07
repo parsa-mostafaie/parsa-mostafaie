@@ -1,9 +1,13 @@
-<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=parsa-mostafaie&show_icons=true&locale=en&rank_icon=github&theme=dark" alt="parsa-mostafaie" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parsa-mostafaie&show_icons=true&locale=en&layout=compact&theme=dark" alt="parsa-mostafaie" /></p>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=parsa-mostafaie&show_icons=true&locale=en&rank_icon=github&theme=dark" alt="parsa-mostafaie" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parsa-mostafaie&show_icons=true&locale=en&layout=compact&theme=dark" alt="parsa-mostafaie" />
+  
+[![Parsa mostafaie's current streak](https://streak-stats.demolab.com/?user=parsa-mostafaie&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=parsa-mostafaie&theme=dark&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
+</p>
 
-<h1 align="center">Hi<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"></picture> I'm Parsa</h1>
-<h3 align="center">A passionate web developer from Iran</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parsa-mostafaie&label=Profile%20views&color=0e75b6&style=flat" alt="parsa-mostafaie" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋; I'm+Parsa+Mostafaie!;Web+developer from Iran!;&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=parsa-mostafaie&label=Profile%20views&color=0e75b6&style=flat" alt="parsa-mostafaie" /> </p>
 
 - 🔭 I’m currently working on [Music](https://www.github.com/parsa-mostafaie/laravel-music)
 
@@ -31,3 +35,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=parsa-mostafaie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
